@@ -6,3 +6,5 @@
 ### 2.Produced statistical analysis of data characteristics.
 ### 3.Conducted feature extraction. (user features and product features)
 ### 4.Utilized the stratified sampling methods to train, evaluate and modify the ‘forecast model’.
+
+p.s. if you want the original dataset feel free to contact me.
